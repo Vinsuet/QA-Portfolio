@@ -10,9 +10,9 @@ Este repositorio contiene la documentación y ejecución de pruebas funcionales 
 
 Puedes consultar los entregables del proyecto en los siguientes enlaces:
 
-* **[Plan de Pruebas (Test Plan)](docs/Test_Plan_SauceDemo.md):** Definición del alcance, tipos de prueba y entorno.
+* **[Plan de Pruebas (Test Plan)](docs/Test_Plan.md):** Definición del alcance, tipos de prueba y entorno.
 * **[Matriz de Casos de Prueba (Test Cases)](docs/Test_Cases_SauceDemo.xlsx):** Casos de prueba ejecutados (Login, Carrito y Checkout).
-* **[Reporte de Incidencias (Bug Report)](docs/Bug_Report_SauceDemo.md):** Documentación de fallos detectados con pasos de reproducción.
+* **[Colección de Pruebas API (Postman)](docs/test/SauceDemo_API_Tests.postman_collection.json):** Pruebas de integración HTTP (GET/POST) con validaciones de código de estado (200 OK y 201 Created).
 
 ---
 
